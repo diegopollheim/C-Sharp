@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Pilha\bin\Debug\Pilha.exe.config
+C:\Users\USUARIO\source\repos\Pilha\bin\Debug\Pilha.exe
+C:\Users\USUARIO\source\repos\Pilha\bin\Debug\Pilha.pdb
+C:\Users\USUARIO\source\repos\Pilha\obj\Debug\Pilha.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Pilha\obj\Debug\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Pilha\obj\Debug\Pilha.exe
+C:\Users\USUARIO\source\repos\Pilha\obj\Debug\Pilha.pdb
