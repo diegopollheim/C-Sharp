@@ -1,0 +1,7 @@
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraSimples\obj\Debug\CalculadoraSimples.csprojAssemblyReference.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb

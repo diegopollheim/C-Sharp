@@ -1,0 +1,7 @@
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CacularPorcentagem\bin\Debug\CacularPorcentagem.exe.config
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CacularPorcentagem\bin\Debug\CacularPorcentagem.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CacularPorcentagem\bin\Debug\CacularPorcentagem.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CacularPorcentagem\obj\Debug\CacularPorcentagem.csprojAssemblyReference.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CacularPorcentagem\obj\Debug\CacularPorcentagem.csproj.CoreCompileInputs.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CacularPorcentagem\obj\Debug\CacularPorcentagem.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CacularPorcentagem\obj\Debug\CacularPorcentagem.pdb

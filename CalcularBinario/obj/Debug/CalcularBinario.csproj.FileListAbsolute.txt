@@ -1,0 +1,7 @@
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalcularBinario\bin\Debug\CalcularBinario.exe.config
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalcularBinario\bin\Debug\CalcularBinario.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalcularBinario\bin\Debug\CalcularBinario.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalcularBinario\obj\Debug\CalcularBinario.csproj.CoreCompileInputs.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalcularBinario\obj\Debug\CalcularBinario.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalcularBinario\obj\Debug\CalcularBinario.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalcularBinario\obj\Debug\CalcularBinario.csprojAssemblyReference.cache

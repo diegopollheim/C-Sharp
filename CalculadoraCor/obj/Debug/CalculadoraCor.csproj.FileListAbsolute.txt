@@ -1,0 +1,7 @@
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraCor\bin\Debug\CalculadoraCor.exe.config
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraCor\bin\Debug\CalculadoraCor.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraCor\bin\Debug\CalculadoraCor.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraCor\obj\Debug\CalculadoraCor.csproj.CoreCompileInputs.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraCor\obj\Debug\CalculadoraCor.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraCor\obj\Debug\CalculadoraCor.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\CalculadoraCor\obj\Debug\CalculadoraCor.csprojAssemblyReference.cache
