@@ -1,0 +1,7 @@
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\Ordena Vetor em Binário\bin\Debug\Ordena Vetor em Binário.exe.config
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\Ordena Vetor em Binário\bin\Debug\Ordena Vetor em Binário.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\Ordena Vetor em Binário\bin\Debug\Ordena Vetor em Binário.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\Ordena Vetor em Binário\obj\Debug\Ordena Vetor em Binário.csprojAssemblyReference.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\Ordena Vetor em Binário\obj\Debug\Ordena Vetor em Binário.csproj.CoreCompileInputs.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\Ordena Vetor em Binário\obj\Debug\Ordena Vetor em Binário.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\Ordena Vetor em Binário\obj\Debug\Ordena Vetor em Binário.pdb

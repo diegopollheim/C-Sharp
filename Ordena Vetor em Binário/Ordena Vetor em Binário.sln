@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordena Vetor em Binário", "Ordena Vetor em Binário.csproj", "{92215BE4-19E6-4234-B646-18F5C3105CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92215BE4-19E6-4234-B646-18F5C3105CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92215BE4-19E6-4234-B646-18F5C3105CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92215BE4-19E6-4234-B646-18F5C3105CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92215BE4-19E6-4234-B646-18F5C3105CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F71A3B-37B3-4906-838A-A1D4249D3F61}
+	EndGlobalSection
+EndGlobal

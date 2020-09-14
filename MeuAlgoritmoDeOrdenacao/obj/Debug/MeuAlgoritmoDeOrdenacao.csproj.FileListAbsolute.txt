@@ -1,0 +1,7 @@
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\MeuAlgoritmoDeOrdenacao\bin\Debug\MeuAlgoritmoDeOrdenacao.exe.config
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\MeuAlgoritmoDeOrdenacao\bin\Debug\MeuAlgoritmoDeOrdenacao.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\MeuAlgoritmoDeOrdenacao\bin\Debug\MeuAlgoritmoDeOrdenacao.pdb
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\MeuAlgoritmoDeOrdenacao\obj\Debug\MeuAlgoritmoDeOrdenacao.csprojAssemblyReference.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\MeuAlgoritmoDeOrdenacao\obj\Debug\MeuAlgoritmoDeOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\MeuAlgoritmoDeOrdenacao\obj\Debug\MeuAlgoritmoDeOrdenacao.exe
+C:\Users\Diego-Katia\Documents\GitHub\MeusProjetos\C-Sharp - Repositório Local\MeuAlgoritmoDeOrdenacao\obj\Debug\MeuAlgoritmoDeOrdenacao.pdb
