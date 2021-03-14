@@ -1,2 +1,2 @@
 # C-Sharp
-Aplicações para Aprendizado
+Pequenos projetos feitos como prática de estudo e aprendizado.
