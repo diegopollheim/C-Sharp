@@ -6,11 +6,12 @@ namespace Matrizes
     {
         static void Main(string[] args)
         {
-            int tamMatriz = 10;
-            int[,] matriz = new int[tamMatriz, tamMatriz];
+            int qtdLinha = 3;
+            int qtdColuna = 3;
+            int[,] matriz = new int[qtdLinha, qtdColuna];
             int op = 0;
 
-            AtribuirValoresNaMatriz(matriz, tamMatriz);
+            AtribuirValoresNaMatriz(matriz, qtdLinha, qtdColuna);
 
             //matriz[0, 0] = 10;
             //matriz[0, 1] = 20;
@@ -41,14 +42,15 @@ namespace Matrizes
                 Console.WriteLine("[3] Triangulo Superior");
                 Console.WriteLine("[4] Triangulo Inferior");
                 Console.WriteLine("[5] Sair");
+                Console.WriteLine("Defina a qtdLinhas e qTdColunas no código Main");
                 op = int.Parse(Console.ReadLine());
             }
 
             void MostrarMatriz()
             {
-                for (int i = 0; i < tamMatriz; i++)
+                for (int i = 0; i < qtdLinha; i++)
                 {
-                    for (int c = 0; c < tamMatriz; c++)
+                    for (int c = 0; c < qtdColuna; c++)
                     {
 
                         Console.Write(" {0} ", matriz[i, c]);
@@ -62,9 +64,9 @@ namespace Matrizes
 
             void MostrarDiagonalPrincipal()
             {
-                for (int i = 0; i < tamMatriz; i++)
+                for (int i = 0; i < qtdLinha; i++)
                 {
-                    for (int c = 0; c < tamMatriz; c++)
+                    for (int c = 0; c < qtdColuna; c++)
                     {
                         if (i == c)
                         {
@@ -83,9 +85,9 @@ namespace Matrizes
 
             void MostrarCantoInferior()
             {
-                for (int i = 0; i < tamMatriz; i++)
+                for (int i = 0; i < qtdLinha; i++)
                 {
-                    for (int c = 0; c < tamMatriz; c++)
+                    for (int c = 0; c < qtdColuna; c++)
                     {
                         if (i > c)
                         {
@@ -104,9 +106,9 @@ namespace Matrizes
 
             void MostrarCantoSuperior()
             {
-                for (int i = 0; i < tamMatriz; i++)
+                for (int i = 0; i < qtdColuna; i++)
                 {
-                    for (int c = 0; c < tamMatriz; c++)
+                    for (int c = 0; c < qtdColuna; c++)
                     {
                         if (i < c)
                         {
@@ -156,14 +158,14 @@ namespace Matrizes
             Console.ReadKey();
         }
 
-        static int[,] AtribuirValoresNaMatriz(int[,] matriz, int tam)
+        static int[,] AtribuirValoresNaMatriz(int[,] matriz, int qtdLinha, int qtdColuna)
         {
 
             Random numeros = new Random();
 
-            for (int l = 0; l < tam; l++)
+            for (int l = 0; l < qtdLinha; l++)
             {
-                for (int c = 0; c < tam; c++)
+                for (int c = 0; c < qtdColuna; c++)
                 {
                    matriz[l,c] = numeros.Next(10,99);
                 }
